@@ -1,0 +1,151 @@
+﻿notification_id,customer_id,notification_type,message,sent_date,is_read
+1,85,Offer,Special discount available on your next renewal!,2025-12-27,0
+2,47,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-07-24,1
+3,91,System,We have updated our terms of service.,2025-11-10,0
+4,94,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-01-09,0
+5,53,System,We have updated our terms of service.,2026-04-23,1
+6,5,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-08-12,1
+7,38,Payment Success,Your payment was processed successfully.,2025-12-28,0
+8,76,System,We have updated our terms of service.,2025-04-10,1
+9,94,Offer,Special discount available on your next renewal!,2024-07-27,0
+10,8,Payment Success,Your payment was processed successfully.,2025-03-20,0
+11,7,Payment Success,Your payment was processed successfully.,2026-06-02,0
+12,77,Offer,Special discount available on your next renewal!,2024-07-03,0
+13,93,System,We have updated our terms of service.,2026-01-24,0
+14,64,Payment Success,Your payment was processed successfully.,2025-11-21,1
+15,28,System,We have updated our terms of service.,2026-05-08,0
+16,19,Payment Success,Your payment was processed successfully.,2025-06-12,0
+17,60,Renewal Reminder,Your subscription will renew soon.,2024-07-25,0
+18,7,Offer,Special discount available on your next renewal!,2024-08-17,1
+19,91,Offer,Special discount available on your next renewal!,2025-12-03,1
+20,20,Renewal Reminder,Your subscription will renew soon.,2025-12-13,0
+21,6,Payment Success,Your payment was processed successfully.,2026-05-06,1
+22,38,Payment Success,Your payment was processed successfully.,2026-06-14,1
+23,91,System,We have updated our terms of service.,2026-01-06,0
+24,40,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-11-28,0
+25,20,Payment Success,Your payment was processed successfully.,2025-02-04,0
+26,42,Offer,Special discount available on your next renewal!,2024-06-08,1
+27,29,System,We have updated our terms of service.,2025-12-11,0
+28,26,Offer,Special discount available on your next renewal!,2024-06-01,0
+29,56,Payment Failed,Your last payment attempt failed. Please update your payment method.,2025-11-26,1
+30,15,Renewal Reminder,Your subscription will renew soon.,2026-04-28,1
+31,16,Payment Success,Your payment was processed successfully.,2025-11-02,0
+32,38,Offer,Special discount available on your next renewal!,2024-12-22,0
+33,97,Offer,Special discount available on your next renewal!,2026-06-29,0
+34,26,Offer,Special discount available on your next renewal!,2024-10-13,1
+35,77,System,We have updated our terms of service.,2025-07-07,0
+36,26,Payment Success,Your payment was processed successfully.,2025-04-26,1
+37,99,Payment Success,Your payment was processed successfully.,2025-08-15,1
+38,5,System,We have updated our terms of service.,2025-09-05,0
+39,1,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-07-18,0
+40,85,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-02-21,0
+41,43,Payment Failed,Your last payment attempt failed. Please update your payment method.,2025-04-05,1
+42,32,Payment Failed,Your last payment attempt failed. Please update your payment method.,2026-01-30,1
+43,23,Renewal Reminder,Your subscription will renew soon.,2026-03-17,1
+44,9,System,We have updated our terms of service.,2025-04-10,0
+45,96,System,We have updated our terms of service.,2024-04-25,0
+46,77,Offer,Special discount available on your next renewal!,2025-04-17,0
+47,5,Renewal Reminder,Your subscription will renew soon.,2025-06-09,0
+48,53,Payment Success,Your payment was processed successfully.,2025-03-01,1
+49,10,Payment Failed,Your last payment attempt failed. Please update your payment method.,2026-01-15,0
+50,47,Payment Success,Your payment was processed successfully.,2025-11-09,0
+51,43,Renewal Reminder,Your subscription will renew soon.,2026-05-12,1
+52,39,Payment Success,Your payment was processed successfully.,2024-09-24,0
+53,14,Payment Success,Your payment was processed successfully.,2024-04-29,0
+54,64,Payment Failed,Your last payment attempt failed. Please update your payment method.,2025-07-02,0
+55,42,Offer,Special discount available on your next renewal!,2024-09-08,0
+56,73,System,We have updated our terms of service.,2024-02-13,1
+57,47,Payment Success,Your payment was processed successfully.,2024-10-17,1
+58,72,Payment Success,Your payment was processed successfully.,2024-05-10,0
+59,94,System,We have updated our terms of service.,2025-05-28,0
+60,13,Renewal Reminder,Your subscription will renew soon.,2024-04-18,0
+61,63,System,We have updated our terms of service.,2024-08-03,0
+62,12,Payment Success,Your payment was processed successfully.,2024-06-06,1
+63,4,Offer,Special discount available on your next renewal!,2025-02-06,0
+64,38,System,We have updated our terms of service.,2026-06-30,0
+65,11,System,We have updated our terms of service.,2024-08-10,0
+66,32,System,We have updated our terms of service.,2026-03-04,0
+67,32,Renewal Reminder,Your subscription will renew soon.,2025-09-05,1
+68,13,Renewal Reminder,Your subscription will renew soon.,2024-08-08,0
+69,39,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-03-27,1
+70,76,Payment Success,Your payment was processed successfully.,2024-01-12,1
+71,53,Offer,Special discount available on your next renewal!,2024-02-03,0
+72,32,Payment Success,Your payment was processed successfully.,2026-01-21,0
+73,20,Payment Failed,Your last payment attempt failed. Please update your payment method.,2026-02-27,0
+74,27,Payment Success,Your payment was processed successfully.,2024-08-12,1
+75,91,Renewal Reminder,Your subscription will renew soon.,2024-01-03,1
+76,5,Offer,Special discount available on your next renewal!,2025-06-22,1
+77,9,System,We have updated our terms of service.,2025-10-13,0
+78,26,Renewal Reminder,Your subscription will renew soon.,2026-05-16,1
+79,53,Renewal Reminder,Your subscription will renew soon.,2025-10-28,1
+80,75,Payment Success,Your payment was processed successfully.,2026-04-02,1
+81,87,Offer,Special discount available on your next renewal!,2024-05-18,1
+82,89,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-02-24,1
+83,88,System,We have updated our terms of service.,2024-06-17,1
+84,50,System,We have updated our terms of service.,2024-11-02,0
+85,9,Payment Failed,Your last payment attempt failed. Please update your payment method.,2026-02-07,0
+86,31,Payment Success,Your payment was processed successfully.,2025-08-24,1
+87,72,Payment Success,Your payment was processed successfully.,2026-06-17,1
+88,74,Renewal Reminder,Your subscription will renew soon.,2025-02-05,1
+89,81,Payment Failed,Your last payment attempt failed. Please update your payment method.,2026-04-25,1
+90,52,Renewal Reminder,Your subscription will renew soon.,2024-08-21,1
+91,85,System,We have updated our terms of service.,2026-05-06,1
+92,40,Renewal Reminder,Your subscription will renew soon.,2024-11-03,1
+93,78,Renewal Reminder,Your subscription will renew soon.,2024-04-23,1
+94,54,Offer,Special discount available on your next renewal!,2025-09-11,1
+95,59,Payment Success,Your payment was processed successfully.,2024-12-09,0
+96,11,Payment Failed,Your last payment attempt failed. Please update your payment method.,2025-02-07,1
+97,80,Renewal Reminder,Your subscription will renew soon.,2024-10-26,1
+98,12,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-07-10,1
+99,53,System,We have updated our terms of service.,2026-04-06,0
+100,16,Payment Success,Your payment was processed successfully.,2025-11-30,0
+101,49,Payment Success,Your payment was processed successfully.,2025-02-03,1
+102,43,Payment Success,Your payment was processed successfully.,2025-01-06,0
+103,29,Payment Failed,Your last payment attempt failed. Please update your payment method.,2026-06-30,1
+104,40,Offer,Special discount available on your next renewal!,2024-11-22,0
+105,21,Offer,Special discount available on your next renewal!,2025-06-23,0
+106,1,Payment Success,Your payment was processed successfully.,2024-04-16,0
+107,59,System,We have updated our terms of service.,2026-04-08,1
+108,95,Payment Failed,Your last payment attempt failed. Please update your payment method.,2025-11-23,0
+109,71,System,We have updated our terms of service.,2025-11-13,1
+110,18,Payment Failed,Your last payment attempt failed. Please update your payment method.,2025-11-13,1
+111,10,System,We have updated our terms of service.,2025-09-30,1
+112,57,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-10-29,1
+113,40,Offer,Special discount available on your next renewal!,2025-06-18,0
+114,84,Offer,Special discount available on your next renewal!,2025-05-20,1
+115,89,Renewal Reminder,Your subscription will renew soon.,2024-02-28,0
+116,72,Offer,Special discount available on your next renewal!,2025-04-03,1
+117,97,System,We have updated our terms of service.,2026-07-01,0
+118,94,System,We have updated our terms of service.,2026-02-06,1
+119,5,Payment Failed,Your last payment attempt failed. Please update your payment method.,2025-05-09,0
+120,1,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-05-27,0
+121,76,System,We have updated our terms of service.,2025-06-04,0
+122,51,Payment Success,Your payment was processed successfully.,2026-02-04,1
+123,81,Payment Success,Your payment was processed successfully.,2024-10-25,0
+124,54,System,We have updated our terms of service.,2025-02-21,0
+125,87,Offer,Special discount available on your next renewal!,2025-05-19,1
+126,89,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-11-27,0
+127,74,Offer,Special discount available on your next renewal!,2026-04-25,0
+128,69,Payment Failed,Your last payment attempt failed. Please update your payment method.,2026-07-04,0
+129,26,System,We have updated our terms of service.,2026-04-06,0
+130,21,Payment Failed,Your last payment attempt failed. Please update your payment method.,2026-01-26,0
+131,88,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-02-24,1
+132,50,Payment Failed,Your last payment attempt failed. Please update your payment method.,2025-12-11,0
+133,35,Payment Failed,Your last payment attempt failed. Please update your payment method.,2026-07-01,1
+134,26,System,We have updated our terms of service.,2024-11-24,1
+135,52,Renewal Reminder,Your subscription will renew soon.,2025-11-28,1
+136,47,Offer,Special discount available on your next renewal!,2024-11-23,1
+137,61,Payment Failed,Your last payment attempt failed. Please update your payment method.,2024-04-25,0
+138,80,Offer,Special discount available on your next renewal!,2025-05-28,1
+139,82,Payment Success,Your payment was processed successfully.,2026-03-08,1
+140,6,Payment Success,Your payment was processed successfully.,2024-10-12,1
+141,85,System,We have updated our terms of service.,2026-05-18,1
+142,97,Renewal Reminder,Your subscription will renew soon.,2024-10-08,1
+143,47,Offer,Special discount available on your next renewal!,2025-06-26,1
+144,81,Renewal Reminder,Your subscription will renew soon.,2024-09-22,1
+145,99,Renewal Reminder,Your subscription will renew soon.,2024-02-12,1
+146,46,System,We have updated our terms of service.,2025-01-03,1
+147,32,Renewal Reminder,Your subscription will renew soon.,2026-06-15,0
+148,97,System,We have updated our terms of service.,2025-11-25,1
+149,92,Renewal Reminder,Your subscription will renew soon.,2024-11-10,0
+150,83,Payment Success,Your payment was processed successfully.,2026-01-10,0

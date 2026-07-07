@@ -1,0 +1,121 @@
+﻿address_id,customer_id,address_line,city,state,pincode,address_type,is_default
+1,1,"158, Gandhi Rd",Hyderabad,Telangana,642237,Billing,1
+2,1,"125, Main St",Salem,Tamil Nadu,636051,Shipping,0
+3,2,"121, MG Road",Coimbatore,Tamil Nadu,622522,Billing,1
+4,3,"66, Anna Nagar",Salem,Tamil Nadu,626621,Billing,1
+5,4,"124, Church St",Salem,Tamil Nadu,625845,Billing,1
+6,5,"165, Gandhi Rd",Coimbatore,Tamil Nadu,604926,Billing,1
+7,6,"128, Church St",Mumbai,Maharashtra,614419,Billing,1
+8,7,"195, MG Road",Tirunelveli,Tamil Nadu,628011,Billing,1
+9,7,"141, Gandhi Rd",Coimbatore,Tamil Nadu,615996,Shipping,0
+10,8,"88, Church St",Coimbatore,Tamil Nadu,605969,Billing,1
+11,9,"95, Anna Nagar",Trichy,Tamil Nadu,637330,Billing,1
+12,10,"192, MG Road",Madurai,Tamil Nadu,625089,Billing,1
+13,11,"54, MG Road",Mumbai,Maharashtra,617710,Billing,1
+14,11,"193, Main St",Tirunelveli,Tamil Nadu,632646,Shipping,0
+15,12,"93, Gandhi Rd",Pune,Maharashtra,632990,Billing,1
+16,13,"70, Gandhi Rd",Chennai,Tamil Nadu,625202,Billing,1
+17,14,"111, Anna Nagar",Hyderabad,Telangana,601429,Billing,1
+18,14,"9, MG Road",Coimbatore,Tamil Nadu,631016,Shipping,0
+19,15,"19, MG Road",Madurai,Tamil Nadu,634593,Billing,1
+20,15,"115, Gandhi Rd",Hyderabad,Telangana,607146,Shipping,0
+21,16,"39, Church St",Coimbatore,Tamil Nadu,607136,Billing,1
+22,17,"142, Main St",Chennai,Tamil Nadu,600089,Billing,1
+23,17,"60, Church St",Coimbatore,Tamil Nadu,602463,Shipping,0
+24,18,"161, Anna Nagar",Coimbatore,Tamil Nadu,634619,Billing,1
+25,19,"26, Main St",Chennai,Tamil Nadu,619683,Billing,1
+26,19,"150, Gandhi Rd",Mumbai,Maharashtra,625433,Shipping,0
+27,20,"154, Main St",Trichy,Tamil Nadu,600685,Billing,1
+28,21,"72, Anna Nagar",Hyderabad,Telangana,642242,Billing,1
+29,22,"135, Gandhi Rd",Hyderabad,Telangana,635848,Billing,1
+30,23,"106, Anna Nagar",Madurai,Tamil Nadu,603624,Billing,1
+31,24,"128, MG Road",Trichy,Tamil Nadu,605314,Billing,1
+32,25,"171, MG Road",Trichy,Tamil Nadu,624262,Billing,1
+33,26,"9, Anna Nagar",Hyderabad,Telangana,627561,Billing,1
+34,27,"51, Main St",Bengaluru,Karnataka,619143,Billing,1
+35,28,"127, Gandhi Rd",Trichy,Tamil Nadu,620428,Billing,1
+36,29,"120, Gandhi Rd",Trichy,Tamil Nadu,617368,Billing,1
+37,30,"160, MG Road",Chennai,Tamil Nadu,639983,Billing,1
+38,31,"125, MG Road",Trichy,Tamil Nadu,603697,Billing,1
+39,32,"14, Gandhi Rd",Bengaluru,Karnataka,601548,Billing,1
+40,33,"14, Main St",Bengaluru,Karnataka,612065,Billing,1
+41,34,"183, Anna Nagar",Hyderabad,Telangana,607419,Billing,1
+42,34,"43, Anna Nagar",Chennai,Tamil Nadu,612496,Shipping,0
+43,35,"192, MG Road",Mumbai,Maharashtra,602090,Billing,1
+44,36,"96, Anna Nagar",Bengaluru,Karnataka,628995,Billing,1
+45,37,"1, Main St",Chennai,Tamil Nadu,618337,Billing,1
+46,38,"108, Main St",Tirunelveli,Tamil Nadu,636774,Billing,1
+47,39,"92, Anna Nagar",Bengaluru,Karnataka,628340,Billing,1
+48,40,"181, MG Road",Madurai,Tamil Nadu,612826,Billing,1
+49,41,"115, Gandhi Rd",Mumbai,Maharashtra,621188,Billing,1
+50,42,"8, MG Road",Hyderabad,Telangana,616253,Billing,1
+51,43,"97, Main St",Madurai,Tamil Nadu,630412,Billing,1
+52,43,"16, Anna Nagar",Chennai,Tamil Nadu,612775,Shipping,0
+53,44,"87, Anna Nagar",Pune,Maharashtra,617846,Billing,1
+54,45,"12, Anna Nagar",Pune,Maharashtra,620741,Billing,1
+55,46,"1, Church St",Salem,Tamil Nadu,641548,Billing,1
+56,47,"60, Main St",Madurai,Tamil Nadu,631141,Billing,1
+57,48,"65, MG Road",Bengaluru,Karnataka,632340,Billing,1
+58,48,"128, Gandhi Rd",Coimbatore,Tamil Nadu,600570,Shipping,0
+59,49,"156, Gandhi Rd",Coimbatore,Tamil Nadu,621482,Billing,1
+60,50,"93, Church St",Hyderabad,Telangana,605178,Billing,1
+61,51,"193, Gandhi Rd",Bengaluru,Karnataka,616207,Billing,1
+62,52,"167, Main St",Chennai,Tamil Nadu,631568,Billing,1
+63,52,"140, Anna Nagar",Mumbai,Maharashtra,610531,Shipping,0
+64,53,"19, Anna Nagar",Chennai,Tamil Nadu,640933,Billing,1
+65,53,"54, Main St",Chennai,Tamil Nadu,627594,Shipping,0
+66,54,"45, Gandhi Rd",Hyderabad,Telangana,608711,Billing,1
+67,54,"118, Church St",Bengaluru,Karnataka,615396,Shipping,0
+68,55,"76, Anna Nagar",Salem,Tamil Nadu,637151,Billing,1
+69,56,"66, Anna Nagar",Tirunelveli,Tamil Nadu,613054,Billing,1
+70,57,"48, Gandhi Rd",Trichy,Tamil Nadu,615433,Billing,1
+71,57,"73, Church St",Coimbatore,Tamil Nadu,612337,Shipping,0
+72,58,"102, Anna Nagar",Chennai,Tamil Nadu,616118,Billing,1
+73,59,"168, MG Road",Chennai,Tamil Nadu,602426,Billing,1
+74,60,"122, Gandhi Rd",Madurai,Tamil Nadu,629379,Billing,1
+75,61,"76, Gandhi Rd",Madurai,Tamil Nadu,607812,Billing,1
+76,62,"154, Church St",Trichy,Tamil Nadu,612724,Billing,1
+77,63,"132, Gandhi Rd",Tirunelveli,Tamil Nadu,629433,Billing,1
+78,64,"28, Church St",Madurai,Tamil Nadu,640628,Billing,1
+79,65,"10, Anna Nagar",Trichy,Tamil Nadu,622283,Billing,1
+80,66,"53, Anna Nagar",Madurai,Tamil Nadu,602505,Billing,1
+81,67,"84, MG Road",Madurai,Tamil Nadu,624366,Billing,1
+82,68,"80, Main St",Pune,Maharashtra,613330,Billing,1
+83,69,"141, MG Road",Hyderabad,Telangana,604146,Billing,1
+84,70,"102, Church St",Chennai,Tamil Nadu,610128,Billing,1
+85,70,"24, Gandhi Rd",Mumbai,Maharashtra,626068,Shipping,0
+86,71,"73, Anna Nagar",Bengaluru,Karnataka,627383,Billing,1
+87,72,"191, Church St",Salem,Tamil Nadu,623408,Billing,1
+88,73,"5, Anna Nagar",Bengaluru,Karnataka,642236,Billing,1
+89,73,"101, MG Road",Trichy,Tamil Nadu,613347,Shipping,0
+90,74,"41, MG Road",Bengaluru,Karnataka,607440,Billing,1
+91,75,"148, Anna Nagar",Bengaluru,Karnataka,630205,Billing,1
+92,76,"4, Main St",Coimbatore,Tamil Nadu,636146,Billing,1
+93,77,"23, Church St",Bengaluru,Karnataka,640776,Billing,1
+94,78,"44, Gandhi Rd",Mumbai,Maharashtra,622802,Billing,1
+95,79,"134, Gandhi Rd",Coimbatore,Tamil Nadu,604397,Billing,1
+96,80,"126, Gandhi Rd",Bengaluru,Karnataka,619766,Billing,1
+97,81,"124, Anna Nagar",Madurai,Tamil Nadu,603497,Billing,1
+98,82,"183, Church St",Chennai,Tamil Nadu,610503,Billing,1
+99,82,"159, MG Road",Trichy,Tamil Nadu,640286,Shipping,0
+100,83,"47, Church St",Hyderabad,Telangana,614295,Billing,1
+101,84,"133, Gandhi Rd",Bengaluru,Karnataka,625138,Billing,1
+102,85,"39, Gandhi Rd",Chennai,Tamil Nadu,612621,Billing,1
+103,86,"194, Main St",Mumbai,Maharashtra,621246,Billing,1
+104,87,"154, MG Road",Bengaluru,Karnataka,636048,Billing,1
+105,88,"79, Church St",Bengaluru,Karnataka,616335,Billing,1
+106,89,"169, Anna Nagar",Bengaluru,Karnataka,629280,Billing,1
+107,89,"113, Gandhi Rd",Mumbai,Maharashtra,601531,Shipping,0
+108,90,"126, MG Road",Pune,Maharashtra,615417,Billing,1
+109,91,"200, MG Road",Pune,Maharashtra,611768,Billing,1
+110,91,"103, Main St",Hyderabad,Telangana,604398,Shipping,0
+111,92,"111, Anna Nagar",Tirunelveli,Tamil Nadu,606010,Billing,1
+112,93,"131, Main St",Mumbai,Maharashtra,602664,Billing,1
+113,93,"22, Anna Nagar",Coimbatore,Tamil Nadu,633520,Shipping,0
+114,94,"193, Church St",Madurai,Tamil Nadu,624763,Billing,1
+115,95,"17, Church St",Madurai,Tamil Nadu,607181,Billing,1
+116,96,"126, Anna Nagar",Coimbatore,Tamil Nadu,610820,Billing,1
+117,97,"90, Church St",Chennai,Tamil Nadu,616529,Billing,1
+118,98,"158, Anna Nagar",Tirunelveli,Tamil Nadu,629910,Billing,1
+119,99,"129, MG Road",Salem,Tamil Nadu,613652,Billing,1
+120,100,"130, Gandhi Rd",Pune,Maharashtra,620911,Billing,1

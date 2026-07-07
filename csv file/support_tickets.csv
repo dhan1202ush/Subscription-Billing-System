@@ -1,0 +1,61 @@
+﻿ticket_id,customer_id,assigned_employee_id,subject,issue_type,status,created_date,resolved_date
+1,97,3,Payment not going through,Technical,Closed,2024-01-29,2024-01-31
+2,72,6,Wrong amount charged,Technical,Closed,2024-09-22,2024-09-28
+3,95,6,Cancel my subscription,General,Open,2025-06-25,
+4,64,7,Update billing address,Technical,Closed,2025-10-13,2025-10-20
+5,42,1,Unable to access account,General,Closed,2024-04-20,2024-04-21
+6,87,12,Refund status query,General,In Progress,2024-03-02,
+7,49,8,Upgrade plan request,General,In Progress,2024-02-01,
+8,31,8,Refund status query,Account,In Progress,2024-12-28,
+9,39,16,Update billing address,Account,Closed,2024-08-09,2024-08-12
+10,97,5,App not loading,Billing,Resolved,2026-04-22,2026-04-24
+11,63,8,Update billing address,Technical,Resolved,2024-06-14,2024-06-24
+12,75,2,Payment not going through,General,Closed,2026-06-23,2026-06-29
+13,24,14,Upgrade plan request,Billing,Open,2026-06-03,
+14,15,5,Upgrade plan request,Technical,Open,2024-01-10,
+15,65,12,Refund status query,Billing,Closed,2024-04-09,2024-04-17
+16,54,11,App not loading,Billing,Closed,2025-10-19,2025-10-26
+17,75,8,Payment not going through,Technical,Closed,2024-07-25,2024-07-26
+18,65,20,Payment not going through,Billing,Resolved,2024-08-25,2024-08-27
+19,41,3,Update billing address,Technical,Open,2026-06-18,
+20,68,14,Wrong amount charged,Billing,In Progress,2024-01-03,
+21,68,12,App not loading,Technical,Resolved,2026-05-09,2026-05-11
+22,29,3,Upgrade plan request,Account,Closed,2024-10-06,2024-10-07
+23,9,2,App not loading,Account,Resolved,2024-07-20,2024-07-27
+24,2,11,Update billing address,Account,Open,2025-12-05,
+25,71,11,Refund status query,General,Resolved,2025-12-07,2025-12-12
+26,41,18,Refund status query,General,Resolved,2025-03-05,2025-03-08
+27,53,5,Upgrade plan request,General,Open,2025-10-12,
+28,31,7,Payment not going through,Billing,Open,2025-11-10,
+29,52,18,App not loading,General,Closed,2024-11-28,2024-12-06
+30,74,1,App not loading,General,Closed,2025-04-29,2025-05-07
+31,31,13,Upgrade plan request,Account,Closed,2024-12-29,2025-01-05
+32,10,18,Upgrade plan request,Account,In Progress,2025-11-11,
+33,61,12,Cancel my subscription,Technical,Resolved,2025-06-18,2025-06-28
+34,9,17,Wrong amount charged,Account,Resolved,2025-01-07,2025-01-16
+35,31,6,Wrong amount charged,Billing,Closed,2024-06-05,2024-06-13
+36,42,13,Unable to access account,General,Closed,2025-01-05,2025-01-12
+37,20,9,App not loading,Account,Open,2025-01-19,
+38,58,3,Unable to access account,General,Resolved,2024-10-08,2024-10-16
+39,82,16,Wrong amount charged,Billing,Closed,2026-01-18,2026-01-27
+40,88,5,App not loading,Account,Resolved,2025-01-10,2025-01-14
+41,49,9,Upgrade plan request,Billing,Resolved,2024-01-19,2024-01-20
+42,76,6,App not loading,Account,Closed,2024-11-09,2024-11-14
+43,31,9,Update billing address,Billing,Resolved,2026-05-04,2026-05-13
+44,26,5,App not loading,Billing,Closed,2025-03-09,2025-03-14
+45,92,15,Refund status query,General,Resolved,2025-01-19,2025-01-24
+46,83,20,Cancel my subscription,General,In Progress,2026-04-10,
+47,75,5,App not loading,Billing,In Progress,2025-09-25,
+48,86,7,Update billing address,General,Closed,2024-12-03,2024-12-05
+49,51,17,Unable to access account,General,Resolved,2025-02-28,2025-03-01
+50,60,14,Unable to access account,General,Closed,2025-02-28,2025-03-03
+51,51,16,Cancel my subscription,Technical,Resolved,2024-05-18,2024-05-19
+52,52,18,App not loading,General,Closed,2024-02-11,2024-02-16
+53,99,15,Unable to access account,Billing,Open,2024-04-30,
+54,14,16,Update billing address,Billing,Closed,2024-03-31,2024-04-04
+55,88,7,Refund status query,Technical,Resolved,2025-12-29,2025-12-30
+56,53,2,App not loading,Technical,Closed,2026-06-11,2026-06-17
+57,67,1,Upgrade plan request,Billing,Closed,2024-07-09,2024-07-14
+58,41,13,Refund status query,General,Closed,2024-09-18,2024-09-23
+59,88,2,Refund status query,Account,Resolved,2024-11-10,2024-11-17
+60,40,7,App not loading,General,Open,2024-05-14,

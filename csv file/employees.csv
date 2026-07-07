@@ -1,0 +1,21 @@
+﻿employee_id,full_name,email,phone,department_id,role,hire_date,status
+1,Harini Murugan,harini.murugan1@company.com,8492655486,5,Support Agent,2023-11-06,Active
+2,Praveen Rajan,praveen.rajan2@company.com,8549008934,1,Team Lead,2021-07-05,Active
+3,Vignesh Menon,vignesh.menon3@company.com,8232931336,2,Executive,2021-05-07,Active
+4,Surya Raj,surya.raj4@company.com,8337384804,1,Executive,2025-10-25,Active
+5,Dinesh Pandian,dinesh.pandian5@company.com,8680557051,1,Executive,2022-09-24,Active
+6,Divya Murugan,divya.murugan6@company.com,8724488420,5,Team Lead,2023-02-02,Active
+7,Naveen Menon,naveen.menon7@company.com,8163996269,5,Team Lead,2023-10-14,Active
+8,Kumar Rathnam,kumar.rathnam8@company.com,8599936196,5,Analyst,2023-01-11,Active
+9,Divya Sundaram,divya.sundaram9@company.com,8187891151,5,Manager,2023-12-12,Active
+10,Selvam Selvan,selvam.selvan10@company.com,8409170818,5,Support Agent,2021-08-30,Active
+11,Priya Rathnam,priya.rathnam11@company.com,8263192149,4,Analyst,2021-03-22,Inactive
+12,Naveen Nair,naveen.nair12@company.com,8715281916,3,Manager,2024-11-24,Active
+13,Ramya Menon,ramya.menon13@company.com,8955656247,4,Support Agent,2025-09-17,Active
+14,Shalini Iyer,shalini.iyer14@company.com,8848443217,6,Support Agent,2021-05-05,Active
+15,Nithya Menon,nithya.menon15@company.com,8831472844,4,Manager,2025-01-07,Active
+16,Rajesh Kumar,rajesh.kumar16@company.com,8595741540,3,Team Lead,2024-06-05,Active
+17,Vignesh Krishnan,vignesh.krishnan17@company.com,8924883888,3,Team Lead,2025-02-21,Active
+18,Surya Iyer,surya.iyer18@company.com,8186523513,2,Analyst,2023-04-03,Active
+19,Bala Rajan,bala.rajan19@company.com,8690793751,3,Analyst,2023-01-05,Active
+20,Ajith Sundaram,ajith.sundaram20@company.com,8262050095,1,Team Lead,2021-11-06,Active

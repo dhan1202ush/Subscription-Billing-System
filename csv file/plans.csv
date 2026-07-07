@@ -1,0 +1,11 @@
+﻿plan_id,plan_name,description,price,billing_cycle,duration_days,status
+1,Basic Monthly,Entry level plan with core features,199.0,Monthly,30,Active
+2,Basic Yearly,Entry level plan billed yearly,1999.0,Yearly,365,Active
+3,Standard Monthly,Standard plan with extra storage,499.0,Monthly,30,Active
+4,Standard Quarterly,Standard plan billed quarterly,1399.0,Quarterly,90,Active
+5,Standard Yearly,Standard plan billed yearly,4999.0,Yearly,365,Active
+6,Premium Monthly,Full-feature premium plan,999.0,Monthly,30,Active
+7,Premium Quarterly,Premium plan billed quarterly,2799.0,Quarterly,90,Active
+8,Premium Yearly,Premium plan billed yearly,9999.0,Yearly,365,Active
+9,Family Monthly,Shared plan for up to 5 users,1499.0,Monthly,30,Active
+10,Enterprise Yearly,Custom enterprise plan,24999.0,Yearly,365,Active

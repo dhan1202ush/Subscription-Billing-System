@@ -1,0 +1,7 @@
+﻿refund_id,payment_id,refund_amount,refund_date,reason,status
+1,37,1499.0,2024-12-22,Duplicate charge,Rejected
+2,38,2799.0,2025-02-01,Customer request,Processed
+3,107,9999.0,2024-03-29,Cancelled within trial,Processed
+4,112,199.0,2024-11-17,Service not used,Processed
+5,122,2799.0,2025-05-26,Cancelled within trial,Processed
+6,124,2799.0,2025-01-02,Service not used,Processed

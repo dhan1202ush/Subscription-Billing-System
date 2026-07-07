@@ -1,0 +1,101 @@
+﻿customer_id,full_name,email,phone,city,state,country,signup_date,status
+1,Kavya Kumar,kavya.kumar1@gmail.com,9620724767,Pune,Maharashtra,India,2024-01-09,Active
+2,Dhanush Pandian,dhanush.pandian2@gmail.com,9549840379,Mumbai,Maharashtra,India,2025-01-26,Active
+3,Muthu Pandian,muthu.pandian3@gmail.com,9841411915,Mumbai,Maharashtra,India,2023-04-21,Active
+4,Abinaya Elango,abinaya.elango4@gmail.com,9527424008,Bengaluru,Karnataka,India,2025-03-18,Active
+5,Surya Raj,surya.raj5@gmail.com,9304665439,Chennai,Tamil Nadu,India,2024-03-03,Active
+6,Ramesh Rathnam,ramesh.rathnam6@gmail.com,9745025986,Madurai,Tamil Nadu,India,2023-07-29,Active
+7,Mani Nair,mani.nair7@gmail.com,9208946535,Tirunelveli,Tamil Nadu,India,2023-02-22,Active
+8,Meena Pillai,meena.pillai8@gmail.com,9503973202,Coimbatore,Tamil Nadu,India,2024-05-31,Suspended
+9,Sowmya Ganesan,sowmya.ganesan9@gmail.com,9609116260,Chennai,Tamil Nadu,India,2023-08-25,Inactive
+10,Sathish Iyer,sathish.iyer10@gmail.com,9619513506,Salem,Tamil Nadu,India,2023-06-25,Active
+11,Selvam Natarajan,selvam.natarajan11@gmail.com,9613916392,Coimbatore,Tamil Nadu,India,2025-11-23,Active
+12,Keerthi Ganesan,keerthi.ganesan12@gmail.com,9257413274,Mumbai,Maharashtra,India,2023-02-25,Active
+13,Nithya Vel,nithya.vel13@gmail.com,9847535601,Salem,Tamil Nadu,India,2025-11-27,Active
+14,Priya Ganesan,priya.ganesan14@gmail.com,9928862021,Trichy,Tamil Nadu,India,2025-12-26,Active
+15,Sneha Rathnam,sneha.rathnam15@gmail.com,9783374319,Trichy,Tamil Nadu,India,2024-02-04,Inactive
+16,Surya Sundaram,surya.sundaram16@gmail.com,9314660300,Mumbai,Maharashtra,India,2025-10-06,Active
+17,Karthik Kumar,karthik.kumar17@gmail.com,9948378593,Salem,Tamil Nadu,India,2025-08-25,Active
+18,Sowmya Ganesan,sowmya.ganesan18@gmail.com,9580207058,Tirunelveli,Tamil Nadu,India,2025-01-16,Active
+19,Suresh Sundaram,suresh.sundaram19@gmail.com,9604744541,Trichy,Tamil Nadu,India,2024-11-22,Active
+20,Vidya Pillai,vidya.pillai20@gmail.com,9102049037,Hyderabad,Telangana,India,2024-12-05,Active
+21,Praveen Murugan,praveen.murugan21@gmail.com,9517187073,Trichy,Tamil Nadu,India,2025-09-06,Inactive
+22,Kumar Rathnam,kumar.rathnam22@gmail.com,9193146944,Bengaluru,Karnataka,India,2025-08-06,Active
+23,Praveen Subramani,praveen.subramani23@gmail.com,9282540039,Coimbatore,Tamil Nadu,India,2023-02-26,Active
+24,Sathish Pandian,sathish.pandian24@gmail.com,9756671867,Pune,Maharashtra,India,2025-08-29,Active
+25,Rajesh Pandian,rajesh.pandian25@gmail.com,9689119239,Mumbai,Maharashtra,India,2023-09-26,Active
+26,Suresh Reddy,suresh.reddy26@gmail.com,9904765445,Coimbatore,Tamil Nadu,India,2025-06-07,Suspended
+27,Lakshmi Krishnan,lakshmi.krishnan27@gmail.com,9130058036,Salem,Tamil Nadu,India,2024-03-11,Active
+28,Anitha Menon,anitha.menon28@gmail.com,9450028352,Salem,Tamil Nadu,India,2026-01-19,Active
+29,Bala Raj,bala.raj29@gmail.com,9894485254,Tirunelveli,Tamil Nadu,India,2025-07-27,Active
+30,Keerthi Rajan,keerthi.rajan30@gmail.com,9988134464,Mumbai,Maharashtra,India,2023-09-25,Active
+31,Keerthi Reddy,keerthi.reddy31@gmail.com,9120084195,Hyderabad,Telangana,India,2024-01-11,Active
+32,Mani Subramani,mani.subramani32@gmail.com,9251997788,Hyderabad,Telangana,India,2023-09-04,Active
+33,Muthu Reddy,muthu.reddy33@gmail.com,9669863085,Mumbai,Maharashtra,India,2025-09-15,Active
+34,Suresh Nair,suresh.nair34@gmail.com,9161012773,Trichy,Tamil Nadu,India,2024-01-27,Active
+35,Suresh Reddy,suresh.reddy35@gmail.com,9585520203,Mumbai,Maharashtra,India,2023-02-27,Active
+36,Naveen Selvan,naveen.selvan36@gmail.com,9449624976,Pune,Maharashtra,India,2025-11-01,Active
+37,Lakshmi Natarajan,lakshmi.natarajan37@gmail.com,9585702592,Mumbai,Maharashtra,India,2025-12-28,Inactive
+38,Sneha Sundaram,sneha.sundaram38@gmail.com,9850779486,Mumbai,Maharashtra,India,2024-06-15,Inactive
+39,Lakshmi Selvan,lakshmi.selvan39@gmail.com,9247246981,Bengaluru,Karnataka,India,2023-09-07,Active
+40,Muthu Vel,muthu.vel40@gmail.com,9820647678,Trichy,Tamil Nadu,India,2025-05-27,Active
+41,Nithya Murugan,nithya.murugan41@gmail.com,9934225020,Coimbatore,Tamil Nadu,India,2025-01-19,Active
+42,Bala Selvan,bala.selvan42@gmail.com,9335780633,Chennai,Tamil Nadu,India,2025-03-26,Inactive
+43,Priya Sundaram,priya.sundaram43@gmail.com,9273372860,Bengaluru,Karnataka,India,2025-11-21,Active
+44,Dinesh Krishnan,dinesh.krishnan44@gmail.com,9482912221,Tirunelveli,Tamil Nadu,India,2023-07-08,Active
+45,Karthik Rathnam,karthik.rathnam45@gmail.com,9694906926,Hyderabad,Telangana,India,2025-06-21,Active
+46,Ajith Rathnam,ajith.rathnam46@gmail.com,9655590371,Pune,Maharashtra,India,2024-08-28,Active
+47,Naveen Murugan,naveen.murugan47@gmail.com,9946498388,Trichy,Tamil Nadu,India,2023-08-03,Active
+48,Shalini Raj,shalini.raj48@gmail.com,9936442127,Coimbatore,Tamil Nadu,India,2024-07-07,Active
+49,Kumar Natarajan,kumar.natarajan49@gmail.com,9535883162,Coimbatore,Tamil Nadu,India,2026-01-03,Inactive
+50,Preethi Iyer,preethi.iyer50@gmail.com,9852067507,Tirunelveli,Tamil Nadu,India,2023-07-03,Active
+51,Divya Rajan,divya.rajan51@gmail.com,9177754046,Salem,Tamil Nadu,India,2023-02-04,Active
+52,Deepa Vel,deepa.vel52@gmail.com,9753025528,Trichy,Tamil Nadu,India,2023-05-17,Active
+53,Ramesh Selvan,ramesh.selvan53@gmail.com,9112397776,Tirunelveli,Tamil Nadu,India,2026-02-06,Active
+54,Shalini Pillai,shalini.pillai54@gmail.com,9238754074,Madurai,Tamil Nadu,India,2025-12-15,Active
+55,Ramesh Subramani,ramesh.subramani55@gmail.com,9381207931,Madurai,Tamil Nadu,India,2024-01-06,Active
+56,Nithya Chandran,nithya.chandran56@gmail.com,9670249079,Trichy,Tamil Nadu,India,2024-08-16,Active
+57,Divya Natarajan,divya.natarajan57@gmail.com,9472589510,Madurai,Tamil Nadu,India,2024-05-27,Active
+58,Karthik Reddy,karthik.reddy58@gmail.com,9691684493,Trichy,Tamil Nadu,India,2025-11-19,Active
+59,Ganesh Murugan,ganesh.murugan59@gmail.com,9806866056,Bengaluru,Karnataka,India,2025-10-10,Active
+60,Surya Reddy,surya.reddy60@gmail.com,9430479528,Trichy,Tamil Nadu,India,2024-04-15,Active
+61,Bala Elango,bala.elango61@gmail.com,9473181306,Madurai,Tamil Nadu,India,2023-09-23,Active
+62,Deepa Rajan,deepa.rajan62@gmail.com,9275284619,Madurai,Tamil Nadu,India,2023-06-23,Active
+63,Ajith Reddy,ajith.reddy63@gmail.com,9819990380,Salem,Tamil Nadu,India,2026-05-11,Active
+64,Swathi Raj,swathi.raj64@gmail.com,9593333846,Coimbatore,Tamil Nadu,India,2023-11-19,Active
+65,Dhanush Natarajan,dhanush.natarajan65@gmail.com,9490993793,Tirunelveli,Tamil Nadu,India,2026-01-25,Active
+66,Arun Chandran,arun.chandran66@gmail.com,9333931686,Tirunelveli,Tamil Nadu,India,2024-01-10,Active
+67,Ajith Vel,ajith.vel67@gmail.com,9609644716,Salem,Tamil Nadu,India,2025-10-26,Active
+68,Anitha Reddy,anitha.reddy68@gmail.com,9933479291,Madurai,Tamil Nadu,India,2023-07-06,Active
+69,Praveen Pandian,praveen.pandian69@gmail.com,9528971850,Pune,Maharashtra,India,2023-03-27,Active
+70,Nithya Chandran,nithya.chandran70@gmail.com,9776102887,Trichy,Tamil Nadu,India,2023-06-23,Active
+71,Keerthi Pandian,keerthi.pandian71@gmail.com,9806032141,Pune,Maharashtra,India,2025-03-08,Active
+72,Ramya Pandian,ramya.pandian72@gmail.com,9405132275,Pune,Maharashtra,India,2023-10-24,Active
+73,Sneha Rajan,sneha.rajan73@gmail.com,9887967718,Mumbai,Maharashtra,India,2023-10-13,Inactive
+74,Sneha Menon,sneha.menon74@gmail.com,9996507414,Madurai,Tamil Nadu,India,2026-04-11,Active
+75,Kavya Vel,kavya.vel75@gmail.com,9133458365,Madurai,Tamil Nadu,India,2023-09-30,Active
+76,Suresh Elango,suresh.elango76@gmail.com,9997456176,Hyderabad,Telangana,India,2026-02-17,Active
+77,Karthik Nair,karthik.nair77@gmail.com,9830857592,Trichy,Tamil Nadu,India,2025-09-29,Active
+78,Sathish Vel,sathish.vel78@gmail.com,9903443818,Mumbai,Maharashtra,India,2026-01-01,Active
+79,Keerthi Vel,keerthi.vel79@gmail.com,9900719241,Hyderabad,Telangana,India,2024-05-31,Inactive
+80,Deepa Sundaram,deepa.sundaram80@gmail.com,9883117532,Trichy,Tamil Nadu,India,2024-04-17,Active
+81,Sathish Iyer,sathish.iyer81@gmail.com,9510771188,Chennai,Tamil Nadu,India,2025-09-08,Inactive
+82,Swathi Raj,swathi.raj82@gmail.com,9762470807,Trichy,Tamil Nadu,India,2023-06-08,Active
+83,Selvam Natarajan,selvam.natarajan83@gmail.com,9799579688,Salem,Tamil Nadu,India,2026-03-08,Active
+84,Pooja Raj,pooja.raj84@gmail.com,9621621687,Salem,Tamil Nadu,India,2023-07-23,Active
+85,Ramya Chandran,ramya.chandran85@gmail.com,9861144359,Mumbai,Maharashtra,India,2024-08-07,Active
+86,Sathish Murugan,sathish.murugan86@gmail.com,9689566415,Trichy,Tamil Nadu,India,2024-09-30,Suspended
+87,Pooja Kumar,pooja.kumar87@gmail.com,9410943694,Hyderabad,Telangana,India,2023-06-06,Inactive
+88,Ganesh Natarajan,ganesh.natarajan88@gmail.com,9515375252,Trichy,Tamil Nadu,India,2024-03-07,Active
+89,Praveen Pandian,praveen.pandian89@gmail.com,9902607174,Mumbai,Maharashtra,India,2024-06-20,Suspended
+90,Bala Pillai,bala.pillai90@gmail.com,9980701311,Mumbai,Maharashtra,India,2024-07-26,Inactive
+91,Vijay Sundaram,vijay.sundaram91@gmail.com,9634603117,Hyderabad,Telangana,India,2025-03-18,Active
+92,Dhanush Iyer,dhanush.iyer92@gmail.com,9831849666,Hyderabad,Telangana,India,2025-04-10,Active
+93,Mani Rajan,mani.rajan93@gmail.com,9469324394,Bengaluru,Karnataka,India,2024-10-09,Active
+94,Selvam Kumar,selvam.kumar94@gmail.com,9448480313,Tirunelveli,Tamil Nadu,India,2025-03-26,Active
+95,Lakshmi Kumar,lakshmi.kumar95@gmail.com,9894469979,Salem,Tamil Nadu,India,2024-06-02,Active
+96,Surya Elango,surya.elango96@gmail.com,9732623619,Chennai,Tamil Nadu,India,2025-01-08,Inactive
+97,Shalini Raj,shalini.raj97@gmail.com,9401332446,Chennai,Tamil Nadu,India,2023-04-16,Inactive
+98,Swathi Pandian,swathi.pandian98@gmail.com,9367710374,Salem,Tamil Nadu,India,2025-06-12,Active
+99,Lakshmi Ganesan,lakshmi.ganesan99@gmail.com,9943040526,Bengaluru,Karnataka,India,2023-03-01,Inactive
+100,Surya Nair,surya.nair100@gmail.com,9689729236,Trichy,Tamil Nadu,India,2023-06-15,Active

@@ -1,0 +1,136 @@
+﻿payment_method_id,customer_id,method_type,provider,masked_number,is_default,added_date
+1,1,Credit Card,Visa,XXXX-XXXX-XXXX-3983,1,2025-04-06
+2,2,UPI,Paytm,user2@paytm,1,2024-11-02
+3,3,Debit Card,MasterCard,XXXX-XXXX-XXXX-2885,1,2025-12-22
+4,4,UPI,PhonePe,user4@phonepe,1,2026-02-11
+5,5,Wallet,Paytm,user5@paytm,1,2024-05-31
+6,5,Wallet,Amazon Pay,user5@amazon pay,0,2025-01-30
+7,6,Net Banking,HDFC,user6@hdfc,1,2026-03-28
+8,7,UPI,PhonePe,user7@phonepe,1,2023-06-16
+9,8,Debit Card,Visa,XXXX-XXXX-XXXX-1791,1,2024-08-29
+10,9,UPI,PhonePe,user9@phonepe,1,2026-04-14
+11,9,UPI,Paytm,user9@paytm,0,2023-01-04
+12,10,Credit Card,Visa,XXXX-XXXX-XXXX-3447,1,2024-08-18
+13,10,Wallet,Amazon Pay,user10@amazon pay,0,2025-05-05
+14,11,UPI,GPay,user11@gpay,1,2023-09-28
+15,11,Net Banking,SBI,user11@sbi,0,2023-04-04
+16,12,Credit Card,Visa,XXXX-XXXX-XXXX-6815,1,2024-09-14
+17,13,Wallet,Amazon Pay,user13@amazon pay,1,2025-12-29
+18,14,Net Banking,ICICI,user14@icici,1,2024-09-08
+19,15,Debit Card,Visa,XXXX-XXXX-XXXX-7000,1,2025-08-30
+20,15,Debit Card,Visa,XXXX-XXXX-XXXX-1231,0,2024-05-13
+21,16,Debit Card,MasterCard,XXXX-XXXX-XXXX-2569,1,2023-05-11
+22,16,Debit Card,Rupay,XXXX-XXXX-XXXX-5419,0,2025-04-03
+23,17,Credit Card,Visa,XXXX-XXXX-XXXX-6739,1,2026-05-02
+24,18,Wallet,Amazon Pay,user18@amazon pay,1,2026-05-17
+25,18,Wallet,Amazon Pay,user18@amazon pay,0,2024-05-23
+26,19,Credit Card,Visa,XXXX-XXXX-XXXX-2008,1,2025-12-24
+27,20,Net Banking,SBI,user20@sbi,1,2024-05-01
+28,21,Credit Card,Visa,XXXX-XXXX-XXXX-1202,1,2026-02-02
+29,22,Debit Card,Visa,XXXX-XXXX-XXXX-7769,1,2024-02-13
+30,22,Wallet,Amazon Pay,user22@amazon pay,0,2023-12-24
+31,23,UPI,GPay,user23@gpay,1,2024-09-06
+32,23,Credit Card,Rupay,XXXX-XXXX-XXXX-8830,0,2026-01-07
+33,24,Net Banking,HDFC,user24@hdfc,1,2025-08-10
+34,25,Net Banking,SBI,user25@sbi,1,2024-04-07
+35,26,UPI,GPay,user26@gpay,1,2023-03-21
+36,27,UPI,Paytm,user27@paytm,1,2024-06-23
+37,28,Credit Card,MasterCard,XXXX-XXXX-XXXX-8144,1,2025-12-07
+38,28,UPI,PhonePe,user28@phonepe,0,2024-03-20
+39,29,Wallet,Paytm,user29@paytm,1,2023-12-14
+40,30,Debit Card,Rupay,XXXX-XXXX-XXXX-4322,1,2023-11-23
+41,31,UPI,GPay,user31@gpay,1,2025-03-07
+42,31,UPI,Paytm,user31@paytm,0,2024-05-04
+43,32,Wallet,Amazon Pay,user32@amazon pay,1,2025-08-24
+44,33,Credit Card,Visa,XXXX-XXXX-XXXX-8163,1,2024-04-23
+45,33,Wallet,Amazon Pay,user33@amazon pay,0,2024-03-10
+46,34,Wallet,Paytm,user34@paytm,1,2026-03-03
+47,35,Debit Card,Visa,XXXX-XXXX-XXXX-1440,1,2023-08-18
+48,36,Wallet,Paytm,user36@paytm,1,2024-12-07
+49,37,Credit Card,Visa,XXXX-XXXX-XXXX-1682,1,2023-10-11
+50,38,Credit Card,Rupay,XXXX-XXXX-XXXX-2111,1,2023-04-06
+51,38,Credit Card,Rupay,XXXX-XXXX-XXXX-6954,0,2024-02-13
+52,39,Credit Card,Rupay,XXXX-XXXX-XXXX-7288,1,2023-08-08
+53,39,Debit Card,Visa,XXXX-XXXX-XXXX-4328,0,2023-08-18
+54,40,Credit Card,Rupay,XXXX-XXXX-XXXX-2433,1,2024-08-11
+55,41,Credit Card,Visa,XXXX-XXXX-XXXX-2603,1,2024-02-24
+56,42,UPI,PhonePe,user42@phonepe,1,2025-05-17
+57,43,Credit Card,MasterCard,XXXX-XXXX-XXXX-5205,1,2024-08-01
+58,44,UPI,PhonePe,user44@phonepe,1,2026-05-17
+59,45,Net Banking,HDFC,user45@hdfc,1,2023-03-05
+60,45,Net Banking,SBI,user45@sbi,0,2025-06-12
+61,46,Credit Card,MasterCard,XXXX-XXXX-XXXX-8683,1,2023-04-09
+62,46,Wallet,Paytm,user46@paytm,0,2023-07-06
+63,47,UPI,GPay,user47@gpay,1,2025-06-12
+64,47,Credit Card,Rupay,XXXX-XXXX-XXXX-4310,0,2024-08-13
+65,48,Credit Card,MasterCard,XXXX-XXXX-XXXX-9041,1,2023-07-15
+66,49,Debit Card,MasterCard,XXXX-XXXX-XXXX-6688,1,2025-11-21
+67,50,Wallet,Paytm,user50@paytm,1,2024-08-04
+68,51,Debit Card,MasterCard,XXXX-XXXX-XXXX-3716,1,2023-08-14
+69,52,Credit Card,MasterCard,XXXX-XXXX-XXXX-2713,1,2024-10-30
+70,52,UPI,GPay,user52@gpay,0,2025-04-01
+71,53,Credit Card,MasterCard,XXXX-XXXX-XXXX-1412,1,2025-01-31
+72,54,UPI,PhonePe,user54@phonepe,1,2025-05-26
+73,55,Wallet,Paytm,user55@paytm,1,2025-02-15
+74,55,Debit Card,MasterCard,XXXX-XXXX-XXXX-3078,0,2025-12-24
+75,56,Wallet,Paytm,user56@paytm,1,2024-12-14
+76,56,Wallet,Amazon Pay,user56@amazon pay,0,2025-12-04
+77,57,Net Banking,ICICI,user57@icici,1,2026-02-08
+78,58,UPI,GPay,user58@gpay,1,2025-08-06
+79,58,Net Banking,ICICI,user58@icici,0,2024-06-10
+80,59,Debit Card,Visa,XXXX-XXXX-XXXX-6473,1,2025-08-04
+81,59,Debit Card,Rupay,XXXX-XXXX-XXXX-4138,0,2024-07-01
+82,60,Wallet,Paytm,user60@paytm,1,2023-11-16
+83,61,UPI,Paytm,user61@paytm,1,2025-12-05
+84,62,Debit Card,Visa,XXXX-XXXX-XXXX-6375,1,2024-01-23
+85,63,Credit Card,Visa,XXXX-XXXX-XXXX-2665,1,2024-02-05
+86,64,Debit Card,Visa,XXXX-XXXX-XXXX-5949,1,2024-09-01
+87,65,UPI,GPay,user65@gpay,1,2023-08-12
+88,66,Credit Card,MasterCard,XXXX-XXXX-XXXX-4382,1,2025-03-06
+89,66,Net Banking,SBI,user66@sbi,0,2023-01-26
+90,67,Net Banking,ICICI,user67@icici,1,2024-03-31
+91,68,UPI,PhonePe,user68@phonepe,1,2023-02-15
+92,68,Debit Card,MasterCard,XXXX-XXXX-XXXX-7630,0,2023-01-12
+93,69,Debit Card,MasterCard,XXXX-XXXX-XXXX-7900,1,2024-04-13
+94,69,Wallet,Paytm,user69@paytm,0,2024-01-07
+95,70,Credit Card,MasterCard,XXXX-XXXX-XXXX-8086,1,2024-10-03
+96,70,UPI,Paytm,user70@paytm,0,2023-07-20
+97,71,Debit Card,MasterCard,XXXX-XXXX-XXXX-3563,1,2024-05-27
+98,72,Net Banking,HDFC,user72@hdfc,1,2023-02-10
+99,73,Net Banking,ICICI,user73@icici,1,2024-01-10
+100,73,UPI,GPay,user73@gpay,0,2025-03-07
+101,74,Credit Card,Visa,XXXX-XXXX-XXXX-5116,1,2026-01-17
+102,75,Debit Card,Rupay,XXXX-XXXX-XXXX-4273,1,2025-11-29
+103,76,Credit Card,Rupay,XXXX-XXXX-XXXX-8483,1,2026-01-13
+104,77,Net Banking,ICICI,user77@icici,1,2023-02-02
+105,78,UPI,Paytm,user78@paytm,1,2024-12-03
+106,78,Net Banking,ICICI,user78@icici,0,2025-07-24
+107,79,Debit Card,MasterCard,XXXX-XXXX-XXXX-9417,1,2023-09-08
+108,80,Wallet,Amazon Pay,user80@amazon pay,1,2023-04-26
+109,80,UPI,PhonePe,user80@phonepe,0,2025-02-21
+110,81,Credit Card,Visa,XXXX-XXXX-XXXX-2231,1,2025-05-07
+111,82,UPI,Paytm,user82@paytm,1,2024-06-27
+112,83,Debit Card,MasterCard,XXXX-XXXX-XXXX-7561,1,2025-12-15
+113,84,Net Banking,HDFC,user84@hdfc,1,2024-03-10
+114,85,Debit Card,Visa,XXXX-XXXX-XXXX-4164,1,2025-08-18
+115,86,Wallet,Paytm,user86@paytm,1,2023-10-27
+116,86,UPI,Paytm,user86@paytm,0,2025-04-26
+117,87,UPI,Paytm,user87@paytm,1,2023-09-14
+118,88,UPI,GPay,user88@gpay,1,2024-07-01
+119,89,Net Banking,ICICI,user89@icici,1,2024-06-03
+120,89,Net Banking,ICICI,user89@icici,0,2024-01-16
+121,90,Credit Card,Rupay,XXXX-XXXX-XXXX-5607,1,2025-01-03
+122,91,UPI,PhonePe,user91@phonepe,1,2025-09-09
+123,92,Net Banking,ICICI,user92@icici,1,2023-06-24
+124,93,UPI,GPay,user93@gpay,1,2024-09-12
+125,93,Net Banking,SBI,user93@sbi,0,2023-06-24
+126,94,UPI,GPay,user94@gpay,1,2025-12-22
+127,94,UPI,Paytm,user94@paytm,0,2026-04-07
+128,95,Credit Card,Visa,XXXX-XXXX-XXXX-2179,1,2024-08-23
+129,96,Wallet,Paytm,user96@paytm,1,2026-03-30
+130,97,Debit Card,Visa,XXXX-XXXX-XXXX-8404,1,2024-12-10
+131,98,Debit Card,MasterCard,XXXX-XXXX-XXXX-9757,1,2023-12-10
+132,99,Wallet,Paytm,user99@paytm,1,2026-01-28
+133,99,UPI,GPay,user99@gpay,0,2025-10-09
+134,100,Debit Card,Rupay,XXXX-XXXX-XXXX-2288,1,2025-06-17
+135,100,Credit Card,Rupay,XXXX-XXXX-XXXX-2940,0,2024-06-25
